@@ -1,0 +1,19 @@
+//Fonts
+@import url('./fonts.scss');
+
+:root{
+    --primary-color:#FF385D;
+}
+
+*{
+    box-sizing: border-box;
+}
+
+html, body{
+    margin:0;
+}
+
+body{
+    max-width: 95%;
+    margin:auto;
+}
